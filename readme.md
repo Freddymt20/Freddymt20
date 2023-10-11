@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, Welcome </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freddymt20" alt="freddymt20"/> </a> </p>
 
