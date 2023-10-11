@@ -1,6 +1,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freddymt20" alt="freddymt20"/> </a> </p>
 
+<h3 align="left"> Hi! I'm Freddy, nice to meet you! </h3>
 - 🔭 I’m currently working on **Backend with Python and Javascript**
 
 - 🌱 I’m currently learning **Django, React and express.js**
