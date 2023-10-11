@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Django, React and express.js**
 
-- 👯 I’m looking to collaborate on **ML projects**
-
 - 🤝 I’m looking for help with **Cloud Services**
 
 - 💬 Ask me about **Python, VBA**
@@ -18,8 +16,6 @@
 - 📫 How to reach me **thechange1999@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/freddy-mendez-2695051b9/](https://www.linkedin.com/in/freddy-mendez-2695051b9/)
-
-- ⚡ Fun fact **A bit addicted to research/solution**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
